@@ -14,8 +14,8 @@ Hey there! I'm @urvashii-b, and I'm a passionate computer science student from P
 
 ## Current Learning 🌱
 
-- Java DSA (Data Structures and Algorithms)
-- R for Data Analytics
+- C++ DSA (Data Structures and Algorithms)
+- Python, R for Data Analytics
 - Web technologies: HTML, CSS, JavaScript
 
 ## Collaboration 💞️

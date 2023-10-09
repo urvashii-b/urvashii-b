@@ -24,7 +24,7 @@ I'm open to collaborating on projects related to my interests. If you have an ex
 
 ## Contact 📫 
 
-To get in touch with me, please send an email to [ubhargavaa@gmail.com](mailto:your-email-address@gmail.com). I'll do my best to respond promptly.
+To get in touch with me, please send an email to [urvashi.officialcse@gmail.com](mailto:your-email-address@gmail.com). I'll do my best to respond promptly.
 
 ## Find Me on ✨GitHub✨
 

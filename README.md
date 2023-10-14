@@ -9,7 +9,7 @@ Hey there! I'm @urvashii-b, and I'm a passionate computer science student from P
 ## Interests 👀
 
 - Artificial Intelligence (AI) and Machine Learning (ML)
-- Cybersecurity
+- Graphic Design
 - Web Development
 
 ## Current Learning 🌱

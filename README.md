@@ -4,7 +4,7 @@ You can click the Preview link to take a look at your changes.
 --->
 # Welcome to my GitHub profile!👋
 
-Hey there! I'm @urvashii-b, and I'm a passionate computer science student from PES University, Bengaluru. I'm excited to collaborate on projects with fellow developers and learn from their expertise.
+Hey there! I'm @urvashii-b, and I'm a passionate computer science student from PES University, Bengaluru. I'm excited to collaborate on projects with fellow developers and learn from their expertise. View my portolio at [urvashiportfolio.com](https://www.urvashiportfolio.com)!
 
 ## Interests 👀
 

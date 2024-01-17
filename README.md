@@ -1,7 +1,7 @@
 <img width="100%" height="75%" src="https://github.com/urvashii-b/urvashii-b/assets/130129236/29f6972d-362e-442e-9ea0-9adee7dc17fb.png" alt="Urvashi Bhargava | README Banner"></img>
 <hr>
 
-# Hey there! I'm <a href = "https://www.linkedin.com/in/urvashi-bhargava-b66100262/">Urvashi Bhargava</a>. Welcome to my GitHub profile! 👋
+# Hey there! I'm <a href = "https://www.linkedin.com/in/urvashi-bhargava-b66100262/">Urvashi Bhargava</a>. Welcome to my GitHub👋
 
 Third year CSE student from [PES University](https://www.pes.edu).
 View my portolio at [urvashiportfolio.com](https://www.urvashiportfolio.com) 🔗

@@ -37,6 +37,6 @@ To get in touch with me, please send an email to [urvashi.officialcse@gmail.com]
 
 ## Find Me on ✨LinkedIn✨
 
-You can find my LinkedIn profile here: [github.com/urvashii-b](https://www.linkedin.com/in/urvashi-bhargava-b66100262/). Feel free to explore my repositories and contributions.
+You can find my LinkedIn profile here: [linkedin.com/in/urvashi-bhargava-b66100262/](https://www.linkedin.com/in/urvashi-bhargava-b66100262/). Feel free to explore my repositories and contributions.
 
 Let's connect and work together on interesting projects!

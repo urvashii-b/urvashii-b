@@ -1,9 +1,7 @@
+<img width="100%" height="75%" src="https://github.com/urvashii-b/urvashii-b/assets/130129236/29f6972d-362e-442e-9ea0-9adee7dc17fb.png" alt="Urvashi Bhargava | README Banner"></img>
+<hr>
+
 <h1 align="center"> Welcome to my GitHub profile!👋 </h1>
-
-<p align="center">
-  <img width="50%" height="75%" src="https://github.com/urvashii-b/urvashii-b/assets/130129236/58a694a5-9159-435f-9dbb-9a96b4b48e35.png" alt="Banner Image">
-</p>
-
 
 Hey there! I'm @urvashii-b, and I'm a passionate computer science student from PES University, Bengaluru. I'm excited to collaborate on projects with fellow developers and learn from their expertise. View my portolio at [urvashiportfolio.com](https://www.urvashiportfolio.com)!
 

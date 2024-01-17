@@ -1,25 +1,53 @@
 <img width="100%" height="75%" src="https://github.com/urvashii-b/urvashii-b/assets/130129236/29f6972d-362e-442e-9ea0-9adee7dc17fb.png" alt="Urvashi Bhargava | README Banner"></img>
 <hr>
 
-<h1 align="center"> Welcome to my GitHub profile!👋 </h1>
+# Hey there! I'm <a href = "https://www.linkedin.com/in/urvashi-bhargava-b66100262/">Urvashi Bhargava</a>. Welcome to my GitHub profile! 👋
 
-Hey there! I'm @urvashii-b, and I'm a passionate computer science student from PES University, Bengaluru. I'm excited to collaborate on projects with fellow developers and learn from their expertise. View my portolio at [urvashiportfolio.com](https://www.urvashiportfolio.com)!
+Third year CSE student from [PES University](https://www.pes.edu).
+View my portolio at [urvashiportfolio.com](https://www.urvashiportfolio.com) 🔗
 
-## Interests 👀
+## Interests 🔍
 
-- Artificial Intelligence (AI) and Machine Learning (ML)
-- Graphic Design
-- Web Development
+- AI/ML
+- Database Technologies
+- Data Structure and Algorithms: CPP 
+  
+## Languages, Tools and Technologies 🚀 
+<table>
+	<tr>
+	<td><strong>Programming Languages</strong></td>
+	<td><img height=40 src = "https://skillicons.dev/icons?i=cpp,py,c,linux&theme=dark"></td>
+</tr>
+<tr>
+	<td><strong>Database Technologies</strong></td>
+	<td><img height=40 src = "https://skillicons.dev/icons?i=mysql,postgresql,mongodb&theme=dark"></td>
+</tr>
+<tr>
+	<td><strong>Frontend Development</strong></td>
+	<td><img height=40 src = "https://skillicons.dev/icons?i=html,css,js,react,nextjs" ></td>
+</tr>
+<tr>
+	<td><strong>Backend Development</strong></td>
+	<td><img height=40 src = "https://skillicons.dev/icons?i=nodejs,express,flask,postman&theme=dark"></td>
+</tr>
+<tr>
+	<td><strong>Cloud and Deployment</strong></td>
+	<td><img height=40 src = "https://skillicons.dev/icons?i=azure,aws,vercel&theme=dark"></td>
+</tr>
 
-## Current Learning 🌱
+<tr>
+	<td><strong>Version Control</strong></td>
+	<td><img height=40 src = "https://skillicons.dev/icons?i=git,github&theme=dark"></td>
+</tr>
+<tr>
+	<td><strong>Design & UI</strong></td>
+	<td><img height=40 src = "https://skillicons.dev/icons?i=figma&theme=dark"></td>
+</tr>
+</table>
 
-- C++ DSA (Data Structures and Algorithms)
-- Python, R for Data Analytics
-- Web technologies: HTML, CSS, JavaScript
+## Collaboration 🤝
 
-## Collaboration 💞️
-
-I'm open to collaborating on projects related to my interests. If you have an exciting project or idea in mind, I'd love to hear about it! You can reach out to me through email.
+I'm open to collaborating on projects related to my interests. If you have an exciting project or idea in mind, I'd love to hear about it! You can reach out to me through Email or LinkedIn.
 
 <div align = "center">
 <h3><b>Profile visits</b></h3>
@@ -35,6 +63,6 @@ To get in touch with me, please send an email to [urvashi.officialcse@gmail.com]
 
 ## Find Me on ✨LinkedIn✨
 
-You can find my LinkedIn profile here: [linkedin.com/in/urvashi-bhargava-b66100262/](https://www.linkedin.com/in/urvashi-bhargava-b66100262/). Feel free to explore my repositories and contributions.
+You can find my LinkedIn profile here: [linkedin.com/in/urvashi-bhargava-b66100262/](https://www.linkedin.com/in/urvashi-bhargava-b66100262/). 
 
-Let's connect and work together on interesting projects!
+Feel free to explore my repositories and contributions.

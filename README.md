@@ -8,7 +8,9 @@ View my portolio at [urvashiportfolio.com](https://www.urvashiportfolio.com) ğŸ”
 
 ## Interests ğŸ”
 
-- AI/ML
+- Artificial Intelligence
+- Machine Learning
+- Data Analytics
 - Database Technologies
 - Data Structure and Algorithms: CPP 
   
@@ -16,7 +18,7 @@ View my portolio at [urvashiportfolio.com](https://www.urvashiportfolio.com) ğŸ”
 <table>
 	<tr>
 	<td><strong>Programming Languages</strong></td>
-	<td><img height=40 src = "https://skillicons.dev/icons?i=cpp,py,c,linux&theme=dark"></td>
+	<td><img height=40 src = "https://skillicons.dev/icons?i=cpp,py,c,r&theme=dark"></td>
 </tr>
 <tr>
 	<td><strong>Database Technologies</strong></td>
@@ -48,12 +50,13 @@ View my portolio at [urvashiportfolio.com](https://www.urvashiportfolio.com) ğŸ”
 ## Collaboration ğŸ¤
 
 I'm open to collaborating on projects related to my interests. If you have an exciting project or idea in mind, I'd love to hear about it! You can reach out to me through Email or LinkedIn.
+<hr>
 
 <div align = "center">
 <h3><b>Profile visits</b></h3>
 <img width = 25% src = "https://profile-counter.glitch.me/{urvashii-b}/count.svg">
 	
-### Show some â¤ by starring ğŸŒŸ some of my repos!
+### Star ğŸŒŸ some of my repos if you like them!
 <hr>
 </div>
 

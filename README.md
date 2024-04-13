@@ -1,4 +1,7 @@
-<img width="100%" height="75%" src="https://github.com/urvashii-b/urvashii-b/assets/130129236/29f6972d-362e-442e-9ea0-9adee7dc17fb.png" alt="Urvashi Bhargava | README Banner"></img>
+<div style="width: 100%; overflow: hidden;">
+    <img style="width: 100%; height: auto; display: block; margin: 0 auto;" src="https://github.com/urvashii-b/urvashii-b/assets/130129236/29f6972d-362e-442e-9ea0-9adee7dc17fb.png" alt="Urvashi Bhargava | README Banner">
+</div>
+
 <hr>
 
 # Hey there! I'm <a href = "https://www.linkedin.com/in/urvashi-bhargava-b66100262/">Urvashi Bhargava</a>. Welcome to my GitHub👋

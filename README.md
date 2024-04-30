@@ -11,17 +11,18 @@ View my portolio at [urvashiportfolio.com](https://www.urvashiportfolio.com) ğŸ”
 
 ## Interests ğŸ”
 
+- Backend Development
 - Artificial Intelligence
 - Machine Learning
 - Data Analytics
 - Database Technologies
-- Data Structure and Algorithms: CPP 
+- Data Structure and Algorithms: C++
   
 ## Languages, Tools and Technologies ğŸš€ 
 <table>
 	<tr>
 	<td><strong>Programming Languages</strong></td>
-	<td><img height=40 src = "https://skillicons.dev/icons?i=cpp,py,c,r&theme=dark"></td>
+	<td><img height=40 src = "https://skillicons.dev/icons?i=cpp,py,c,java,matlab&theme=dark"></td>
 </tr>
 <tr>
 	<td><strong>Database Technologies</strong></td>
@@ -29,30 +30,33 @@ View my portolio at [urvashiportfolio.com](https://www.urvashiportfolio.com) ğŸ”
 </tr>
 <tr>
 	<td><strong>Frontend Development</strong></td>
-	<td><img height=40 src = "https://skillicons.dev/icons?i=html,css,js,react,nextjs" ></td>
+	<td><img height=40 src = "https://skillicons.dev/icons?i=html,css,js,react" ></td>
 </tr>
 <tr>
 	<td><strong>Backend Development</strong></td>
-	<td><img height=40 src = "https://skillicons.dev/icons?i=nodejs,express,flask,postman&theme=dark"></td>
+	<td><img height=40 src = "https://skillicons.dev/icons?i=nodejs,express,django,flask&theme=dark"></td>
 </tr>
 <tr>
 	<td><strong>Cloud and Deployment</strong></td>
-	<td><img height=40 src = "https://skillicons.dev/icons?i=azure,aws,vercel&theme=dark"></td>
+	<td><img height=40 src = "https://skillicons.dev/icons?i=docker,jenkins,kubernetes,aws,linux&theme=dark"></td>
 </tr>
-
+<tr>
+	<td><strong>Machine Learning</strong></td>
+	<td><img height=40 src="https://skillicons.dev/icons?i=opencv,tensorflow,r&theme=dark"></td>
+</tr>
 <tr>
 	<td><strong>Version Control</strong></td>
 	<td><img height=40 src = "https://skillicons.dev/icons?i=git,github&theme=dark"></td>
 </tr>
 <tr>
 	<td><strong>Design & UI</strong></td>
-	<td><img height=40 src = "https://skillicons.dev/icons?i=figma&theme=dark"></td>
+	<td><img height=40 src = "https://skillicons.dev/icons?i=figma,blender,unity&theme=dark"></td>
 </tr>
 </table>
 
 ## Collaboration ğŸ¤
 
-I'm open to collaborating on projects related to my interests. If you have an exciting project or idea in mind, I'd love to hear about it! You can reach out to me through Email or LinkedIn.
+I'm open to collaborating on projects related to my interests. If you have an exciting project or idea in mind, I'd love to hear about it! You can reach out to me through Email, LinkedIn or X.
 <hr>
 
 <div align = "center">
@@ -71,4 +75,4 @@ To get in touch with me, please send an email to [urvashi.officialcse@gmail.com]
 
 You can find my LinkedIn profile here: [linkedin.com/in/urvashi-bhargava-b66100262/](https://www.linkedin.com/in/urvashi-bhargava-b66100262/). 
 
-Feel free to explore my repositories and contributions.
+Feel free to explore my repositories and contributions!

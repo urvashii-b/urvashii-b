@@ -11,13 +11,13 @@ View my portolio at [urvashiportfolio.com](https://www.urvashiportfolio.com) �
 
 ## Interests 🔍
 
-- Backend Development
+- Data Structure and Algorithms: C++
+- Full Stack Development
 - Artificial Intelligence
 - Machine Learning
 - Data Analytics
 - Database Technologies
-- Data Structure and Algorithms: C++
-  
+
 ## Languages, Tools and Technologies 🚀 
 <table>
 	<tr>

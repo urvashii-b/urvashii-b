@@ -9,49 +9,37 @@
 Third year CSE student from [PES University](https://www.pes.edu).
 View my portolio at [urvashiportfolio.com](https://www.urvashiportfolio.com) 🔗
 
-## Interests 🔍
+## Strengths 🤞
 
 - Data Structure and Algorithms: C++
-- Full Stack Development
-- Artificial Intelligence
-- Machine Learning
-- Data Analytics
-- Database Technologies
+- Frontend Development: Svelte
+- Generative AI: LLMs
+- UI/UX Design: Framer
+- Database Technologies: MySQL
 
 ## Languages, Tools and Technologies 🚀 
 <table>
 	<tr>
 	<td><strong>Programming Languages</strong></td>
-	<td><img height=40 src = "https://skillicons.dev/icons?i=cpp,py,c,java,matlab&theme=dark"></td>
-</tr>
-<tr>
-	<td><strong>Database Technologies</strong></td>
-	<td><img height=40 src = "https://skillicons.dev/icons?i=mysql,postgresql,mongodb&theme=dark"></td>
+	<td><img height=40 src = "https://skillicons.dev/icons?i=cpp,py&theme=dark"></td>
 </tr>
 <tr>
 	<td><strong>Frontend Development</strong></td>
-	<td><img height=40 src = "https://skillicons.dev/icons?i=html,css,js,react" ></td>
+	<td><img height=40 src = "https://skillicons.dev/icons?i=html,css,js,svelte,vite" ></td>
 </tr>
 <tr>
-	<td><strong>Backend Development</strong></td>
-	<td><img height=40 src = "https://skillicons.dev/icons?i=nodejs,express,django,flask&theme=dark"></td>
+	<td><strong>Design & UI</strong></td>
+	<td><img height=40 src = "https://skillicons.dev/icons?i=figma,blender,webflow,notion&theme=dark"></td>
 </tr>
 <tr>
-	<td><strong>Cloud and Deployment</strong></td>
-	<td><img height=40 src = "https://skillicons.dev/icons?i=docker,jenkins,kubernetes,aws,linux&theme=dark"></td>
-</tr>
-<tr>
-	<td><strong>Machine Learning</strong></td>
-	<td><img height=40 src="https://skillicons.dev/icons?i=opencv,tensorflow,r&theme=dark"></td>
+	<td><strong>Database Technologies</strong></td>
+	<td><img height=40 src = "https://skillicons.dev/icons?i=mysql,mongodb&theme=dark"></td>
 </tr>
 <tr>
 	<td><strong>Version Control</strong></td>
 	<td><img height=40 src = "https://skillicons.dev/icons?i=git,github&theme=dark"></td>
 </tr>
-<tr>
-	<td><strong>Design & UI</strong></td>
-	<td><img height=40 src = "https://skillicons.dev/icons?i=figma,blender,unity&theme=dark"></td>
-</tr>
+
 </table>
 
 ## Collaboration 🤝

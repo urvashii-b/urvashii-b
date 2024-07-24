@@ -6,8 +6,8 @@
 
 # Hey there! I'm <a href = "https://www.linkedin.com/in/urvashi-bhargava-b66100262/">Urvashi Bhargava</a>. Welcome to my GitHub👋
 
-Third year CSE student from [PES University](https://www.pes.edu).
-View my portolio at [urvashiportfolio.com](https://www.urvashiportfolio.com) 🔗
+Fourth year CSE student from [PES University](https://www.pes.edu).
+View my portfolio at [urvashiportfolio.com](https://www.urvashiportfolio.com) 🔗
 
 ## Strengths 🤞
 
@@ -73,10 +73,10 @@ I'm open to collaborating on projects related to my interests. If you have an ex
 
 ## Contact 📫 
 
-To get in touch with me, please send an email to [urvashi.officialcse@gmail.com](mailto:your-email-address@gmail.com). I'll do my best to respond promptly.
+To get in touch with me, please send an email to [urvashi.officialcse@gmail.com](mailto:urvashi.officialcse@gmail.com). I'll do my best to respond promptly.
 
 ## Find Me on ✨LinkedIn✨
 
 You can find my LinkedIn profile here: [linkedin.com/in/urvashi-bhargava-b66100262/](https://www.linkedin.com/in/urvashi-bhargava-b66100262/). 
 
-Feel free to explore my repositories and contributions!
+Feel free to explore my repositories and contributions, Happy coding!

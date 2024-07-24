@@ -47,9 +47,25 @@ View my portolio at [urvashiportfolio.com](https://www.urvashiportfolio.com) �
 I'm open to collaborating on projects related to my interests. If you have an exciting project or idea in mind, I'd love to hear about it! You can reach out to me through Email, LinkedIn or X.
 <hr>
 
-<div align = "center">
-<h3><b>Profile visits</b></h3>
-<img width = 25% src = "https://profile-counter.glitch.me/{urvashii-b}/count.svg">
+<div align="center">
+    <table width="100%">
+        <tr>
+            <td width="30%">
+		<h3><b>Profile visits</b></h3>
+                <img width="80%" src="https://profile-counter.glitch.me/{urvashii-b}/count.svg">
+		<h3><b>Leetcode Stats</b></h3>
+                <img src="https://leetcard.jacoblin.cool/urvashiiibh?theme=dark&font=Carrois%20Gothic%20SC&ext=contest" alt="LeetCode Stats">
+            </td>
+            <td width="70%">
+		<h3><b>Latest Work</b></h3>
+		<a href="https://hydammonia.com" target="_blank">
+                <img src="https://github.com/user-attachments/assets/2348ea8a-ea63-4874-9f33-1921a1c0b030" alt="Latest Work" width="100%">
+		</a>
+                <p><a href="https://hydammonia.com" target="_blank">View website ↗</a></p>
+            </td>
+        </tr>
+    </table>
+</div>
 	
 ### Star 🌟 some of my repos if you like them!
 <hr>

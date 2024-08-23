@@ -7,7 +7,7 @@
 # Hey there! I'm <a href = "https://www.linkedin.com/in/urvashi-bhargava-b66100262/">Urvashi Bhargava</a>. Welcome to my GitHub👋
 
 Fourth year CSE student from [PES University](https://www.pes.edu).
-View my portfolio at [urvashiportfolio.com](https://urvashiportfolio.com) 🔗
+View my portfolio at [urvashiportfolio.com](https://urvashiportfolio.com) & terminal at [urvashi-terminal.app](https://urvashi-terminal.vercel.app/) 🔗
 
 ## Strengths 🤞
 

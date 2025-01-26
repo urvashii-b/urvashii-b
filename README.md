@@ -12,7 +12,7 @@ View my portfolio at [urvashiportfolio.com](https://urvashiportfolio.com) & term
 ## Strengths 🤞
 
 - Data Structure and Algorithms: C++
-- Frontend Development: Svelte
+- Frontend Development: React, Swift
 - Generative AI: LLMs
 - UI/UX Design: Framer
 - Database Technologies: MySQL

@@ -21,11 +21,11 @@ View my portfolio at [urvashiportfolio.com](https://urvashiportfolio.com) & term
 <table>
 	<tr>
 	<td><strong>Programming Languages</strong></td>
-	<td><img height=40 src = "https://skillicons.dev/icons?i=cpp,py&theme=dark"></td>
+	<td><img height=40 src = "https://skillicons.dev/icons?i=cpp,py,swift&theme=dark"></td>
 </tr>
 <tr>
 	<td><strong>Frontend Development</strong></td>
-	<td><img height=40 src = "https://skillicons.dev/icons?i=html,css,js,svelte,vite" ></td>
+	<td><img height=40 src = "https://skillicons.dev/icons?i=html,css,js,svelte,react,vite" ></td>
 </tr>
 <tr>
 	<td><strong>Design & UI</strong></td>
